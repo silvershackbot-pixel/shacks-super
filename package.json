@@ -1,0 +1,1 @@
+{"name":"shacks-super","version":"1.0.0","description":"Baileys WhatsApp bot with Express server","main":"index.js","scripts":{"start":"node index.js"},"dependencies":{"express":"^4.17.1","baileys":"^5.0.0"},"author":"silvershackbot-pixel","license":"MIT"}
